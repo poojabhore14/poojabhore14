@@ -24,8 +24,8 @@ I am a computer science  student who is interested in making awesome web apps as
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br>
 <a href="https://github.com/imbilaltamboli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poojabhore14&theme=tokyonight&show_icons=true&custom_title=Bhore" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojabhore14&theme=tokyonight&layout=&langs_count=8)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poojabhore14&theme=tokyonight&show_icons=true&custom_title=My Github Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojabhore14&theme=tokyonight&layout=&langs_count=8&card_width=50" />
 </a>
 
 
