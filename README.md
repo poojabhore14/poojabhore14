@@ -1,4 +1,12 @@
-<h2 align="center">Hello there! My name is Pooja Bhore 👋🤓</h2>
-<p align="center">I'm Software Engineer with excellent problem-solving skills and ability to perform well in team . Passionate about coding and Web Designing.
-</p>
+### HEY visitor :wave:
+
+I am a computer science  student who is interested in AI and Machine Learning as well as Data Science. Also in every new technology that is making our lives easier!
+- 🔭 I’m currently working on PWA .
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 👯 I’m looking to collaborate on a tech project integrating IoT and Machine Learning
+- ⚡ Fun question: Do you think machine learning would be that revolutionary if stereotypes didn't exist? :thinking:
+
+ Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/bhorepooja/)](https://www.linkedin.com/in/bhorepooja/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhorepooja14@gmail.com)](mailto:bhorepooja14@gmail.com)
+
 
