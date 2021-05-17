@@ -1,9 +1,9 @@
 ### HEY visitor :wave:
 
-I am a computer science  student who is interested in AI and Machine Learning as well as Data Science. Also in every new technology that is making our lives easier!
+I am a computer science  student who is interested in making awesome web apps as well as graphic design. Also in every new technology that is making our lives easier!
 - 🔭 I’m currently working on PWA .
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on a tech project integrating IoT and Machine Learning
+- 👯 I’m looking to collaborate on a tech project.
 - ⚡ Fun question: Do you think machine learning would be that revolutionary if stereotypes didn't exist? :thinking:
 
  Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/bhorepooja/)](https://www.linkedin.com/in/bhorepooja/)
